@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>Kevin Williams</Authors>
+    <Company />
+    <Copyright />
+    <Description>Extended functionality for types including a Truncate(x) method for decimal and double</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>extension type truncate decimal double</PackageTags>
+    <PackageReleaseNotes>Initial release. Truncate functionality for double and decimal.</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/kupokev/Type-Extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/kupokev/Type-Extensions</PackageProjectUrl>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
